@@ -4,9 +4,12 @@ namespace Les_console_git
 {
     class Program
     {
+        
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Helloe Woreld 2");
+            Console.ReadLine();
         }
     }
 }
